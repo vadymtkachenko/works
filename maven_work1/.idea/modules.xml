@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dao1/dao1.iml" filepath="$PROJECT_DIR$/dao1/dao1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven_work1.iml" filepath="$PROJECT_DIR$/maven_work1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ui1/ui1.iml" filepath="$PROJECT_DIR$/ui1/ui1.iml" />
+    </modules>
+  </component>
+</project>
